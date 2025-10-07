@@ -23,7 +23,7 @@ Antes que nada debemos saber que al trabajar con anomalias, lo normal es que enc
 $$P(x)=P_1*P_2*P_3*\cdots*P_n$$
 Sabiendo esto el algoritmo seria de la siguiente forma:
 1. Elegir n caracteristicas que puede indicar un ejemplo de anomalia.
-2. Encajar los parametros de la media y varianza para cada caracteristica $\mu_1, \ldots, \mu_n, \sigma_1^2, \ldots, \sigma_n^2$ 
+2. Encajar los parametros de la media y varianza para cada caracteristicas $\mu_1, \ldots, \mu_n, \sigma_1^2, \ldots, \sigma_n^2$ 
 		$$ \mu_j = \frac{1}{m} \sum_{i=1}^m x_j^{(i)} \qquad
 \sigma_j^2 = \frac{1}{m} \sum_{i=1}^m \left(x_j^{(i)} - \mu_j \right)^2$$
 3. Hallar la probabilidad en conjunta $P(x)$. y definir que habra una anomalia si $p(x)<\epsilon$:
