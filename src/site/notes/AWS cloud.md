@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aws-cloud/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/aws-cloud/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 

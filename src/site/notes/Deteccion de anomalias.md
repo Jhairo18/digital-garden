@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deteccion-de-anomalias/"}
+{"dg-publish":true,"permalink":"/deteccion-de-anomalias/","dgPassFrontmatter":true}
 ---
 
 
