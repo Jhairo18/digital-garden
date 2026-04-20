@@ -31,7 +31,7 @@
 - [[Config en Deepsteam\|Config en Deepsteam]]
 - [[Formas de programar en DeepStream\|Formas de programar en DeepStream]]
 - [[Capas de programacion en DeepStream\|Capas de programacion en DeepStream]]
-
+# Otros
 [[Consideraciones de Luz\|Consideraciones de Luz]]
 [[PoE\|PoE]]
 [[Cable de par trenzado\|Cable de par trenzado]]
