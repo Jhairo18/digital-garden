@@ -14,7 +14,7 @@
 - [[ONNX\|ONNX]]
 - TensorRT 
 # Hardware y rendimiento
-- [[vram\|vram]]
+- [[VRAM\|vram]]
 - [[TOPS\|TOPS]]
 - Porque usar jetson? 
 - [[Marcas de jetson\|Marcas de jetson]]
@@ -29,5 +29,18 @@
 # DeepStream
 - [[Pipeline de Deepstream\|Pipeline de Deepstream]]
 - [[Config en Deepsteam\|Config en Deepsteam]]
+- [[Formas de programar en DeepStream\|Formas de programar en DeepStream]]
 - [[Capas de programacion en DeepStream\|Capas de programacion en DeepStream]]
 
+[[Consideraciones de Luz\|Consideraciones de Luz]]
+[[PoE\|PoE]]
+[[Cable de par trenzado\|Cable de par trenzado]]
+[[VRAM\|VRAM]]
+RAM como edteam 
+[[TPU\|TPU]]
+[[NPU\|NPU]]
+USB 2.0 y USB 3.1
+Porque la gpu es efectivo para correr IA?
+CUDA q es
+Repo de MarcoLuciano
+Exportacion del onnx desde ultranalytics
